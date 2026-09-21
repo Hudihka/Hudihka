@@ -1,3 +1,5 @@
+![Konstantin Iroshnikov — Senior iOS Developer](assets/github_banner.svg)
+
 ### Konstantin Iroshnikov — Senior iOS Developer
 
 Building and scaling native iOS apps (Swift, SwiftUI, Objective-C) for 8+ years — fintech, streaming, and marketplace platforms. Based in Valencia, Spain 🇪🇸.
